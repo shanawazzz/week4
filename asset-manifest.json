@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shanawazzz/week4.git/static/css/main.ae51c846.css",
-    "main.js": "/shanawazzz/week4.git/static/js/main.909a7de9.js",
-    "static/js/592.167abb64.chunk.js": "/shanawazzz/week4.git/static/js/592.167abb64.chunk.js",
-    "index.html": "/shanawazzz/week4.git/index.html",
-    "main.ae51c846.css.map": "/shanawazzz/week4.git/static/css/main.ae51c846.css.map",
-    "main.909a7de9.js.map": "/shanawazzz/week4.git/static/js/main.909a7de9.js.map",
-    "592.167abb64.chunk.js.map": "/shanawazzz/week4.git/static/js/592.167abb64.chunk.js.map"
+    "main.css": "/week4/static/css/main.ae51c846.css",
+    "main.js": "/week4/static/js/main.be0881a2.js",
+    "static/js/592.167abb64.chunk.js": "/week4/static/js/592.167abb64.chunk.js",
+    "index.html": "/week4/index.html",
+    "main.ae51c846.css.map": "/week4/static/css/main.ae51c846.css.map",
+    "main.be0881a2.js.map": "/week4/static/js/main.be0881a2.js.map",
+    "592.167abb64.chunk.js.map": "/week4/static/js/592.167abb64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae51c846.css",
-    "static/js/main.909a7de9.js"
+    "static/js/main.be0881a2.js"
   ]
 }
